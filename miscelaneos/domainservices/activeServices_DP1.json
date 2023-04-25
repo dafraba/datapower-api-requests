@@ -1,0 +1,1 @@
+[{"LocalIP": "0.0.0.0", "LocalPort": 5550, "ServiceClass": "MgmtInterface", "ServiceName": "xml-mgmt"}, {"LocalIP": "0.0.0.0", "LocalPort": 5554, "ServiceClass": "MultiProtocolGateway", "ServiceName": "rest-mgmt"}, {"LocalIP": "0.0.0.0", "LocalPort": 9090, "ServiceClass": "WebGUI", "ServiceName": "web-mgmt"}]
